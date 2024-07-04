@@ -1,0 +1,9 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/202407031746-create-brand-champagne.xml
+  - include:
+      file: db/changelog/202407031757-insert-champagne.xml
+  - include:
+      file: db/changelog/202407040810-create-product-champagne.xml
+  - include:
+      file: db/changelog/202407040820-insert-product-chmpagne.xml
